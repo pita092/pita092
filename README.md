@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, C, lua**
 
-- ⚡ Fun fact **I think i am not very funny**
+- ⚡ Fun fact ** i am not very funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
