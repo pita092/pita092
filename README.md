@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning **C++, C, lua**
 
-![alt text](https://gruvbox-wallpapers.pages.dev/wallpapers/pixelart/image16.png)
+![Alt text](https://github.com/pita092/images-for-repos/blob/main/grub1233-imageonline.co-merged.png?raw=true)
