@@ -1,7 +1,7 @@
 <h1 align="center">flicker goon</h1>
 <h3 align="center">i made my neovim config to edit my neovim config and write c++ sometimes</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sigma" alt="pita092" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pita092" alt="pita092" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
