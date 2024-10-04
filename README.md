@@ -1,4 +1,4 @@
-<h1 align="center">flicker goon</h1>
+<h1 align="center">pita</h1>
 <h3 align="center">i made my neovim config to edit my neovim config and write c++ sometimes</h3>
 
 
