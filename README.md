@@ -1,1 +1,1 @@
-![alt text](https://github.com/pita092/images-for-repos/blob/main/pfpf2.jpeg?raw=true)
+![alt text](https://github.com/pita092/pita092/blob/main/haskell-uwu.png?raw=true)
